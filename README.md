@@ -2,6 +2,9 @@
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
 
+> [!IMPORTANT]
+> **BrierAinz working fork.** The original Hermes Agent project, product identity, documentation, and core authorship belong to [Nous Research and its contributors](https://github.com/NousResearch/hermes-agent). This fork is used for native Windows reliability work, integration experiments, and changes intended for upstream contribution. See [BRIERAINZ_FORK.md](BRIERAINZ_FORK.md) for the maintenance boundary. For the canonical project and releases, use the [upstream repository](https://github.com/NousResearch/hermes-agent).
+
 # Hermes Agent ☤
 <p align="center">
   <a href="https://hermes-agent.nousresearch.com/">Hermes Agent</a> | <a href="https://hermes-agent.nousresearch.com/">Hermes Desktop</a>
